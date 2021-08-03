@@ -1,8 +1,6 @@
 ## Hey there, good day!
 
-### My name is Łukasz the Junior Frontend Developer. :bowtie:
-
-### Currently I am looking for a vacancy as a Junior Frontend Developer.
+### My name is Łukasz and currently I am looking for a vacancy as a Junior Frontend Developer. :bowtie:
 
 #
 
@@ -74,11 +72,6 @@
 ➖➖➖ ❗❗❗ Due to the ownership rights I cannot share the source code of the application. However, you can watch a quick overview video how the application is functioning in practice. ❗❗❗ ➖➖➖
 
 #
-
-### Curriculum Vitae:
-
-<br />
-<br />
 
 <!--
 **lkot/lkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
