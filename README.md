@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey there!
+
+## I'm Łukasz the Junior Frontend Developer.
+
+
 
 <!--
 **lkot/lkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
