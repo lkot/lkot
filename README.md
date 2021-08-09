@@ -62,7 +62,7 @@
 
 #
 
-🩸 KrewSystem is a further development of Blood Donation Center System via implementation of web portal for servicing blood donors. Application is an extension of already existing BDC's system and is dedicated for local departments of Lubuskie region located in 5 other cities.
+🩸 [KrewSystem] is a further development of Blood Donation Center System via implementation of web portal for servicing blood donors. Application is an extension of already existing BDC's system and is dedicated for local departments of Lubuskie region located in 5 other cities.
 
 ➖➖➖ ❗❗❗ Due to the ownership rights I cannot share the source code of the application. However, you can see a quick overview video how the application is functioning in practice. ❗❗❗ ➖➖➖
 #
@@ -88,3 +88,5 @@
 [facebook]: https://www.facebook.com/kicirrus/
 [hotmail]: https://www.lukasz.kot@hotmail.com
 [KrewSystem.Sms]: https://vimeo.com/555818973
+[KrewSystem]: https://vimeo.com/584767575
+
