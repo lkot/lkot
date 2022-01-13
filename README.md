@@ -1,7 +1,5 @@
 ## Hey there, good day!
 
-<br/>
-
 ### My name is Łukasz and currently I am looking for a job as a Junior Frontend Developer. :bowtie:
 
 #
@@ -68,6 +66,8 @@
 ⚡ [Cryptocurrency App] is an application displaying up-to-date cryptocurrencies' data. Project implemented to practice utilizing of ReactJS framework, along with the usage of React Hooks, Axios and a RESTful API.
 
 ⚡ [Finance Buddy App] is a CRUD application to keep track of one's own budget implemented using ReactJS including React Hooks and Context API.
+
+#
 
 🩸 [KrewSystem] is a further development of Blood Donation Center System via implementation of web portal for servicing blood donors. Application is an extension of already existing BDC's system and is dedicated for local departments of Lubuskie region located in 5 other cities.
 
