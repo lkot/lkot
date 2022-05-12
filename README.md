@@ -51,6 +51,10 @@
 
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkot&show_icons=true&locale=en&layout=compact" alt="Top languages graph" /></p>
+
+<br />
+
 #
 
 ### Projects:
