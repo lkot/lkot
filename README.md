@@ -51,7 +51,7 @@
 
 #
 
-### Projects:
+### Projects implemented in 2022 while applying for Junior Frontend Dev job offers:
 
 😼 The official [catsSoft IT Systems] company's webpage implemented using such technologies like ReactJS, HTML5 & CSS3.
 
