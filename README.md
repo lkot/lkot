@@ -1,6 +1,6 @@
 ## Hey there, good day!
 
-### My name is Łukasz and currently I am looking for a job as a Junior Frontend Developer. :bowtie:
+### My name is Łukasz and currently I am looking for a job as a Frontend Developer. :bowtie:
 
 #
 
